@@ -72,7 +72,7 @@ sleep 1
 #autor
 echo ${orange}"Autor    : ZE4N"
 sleep 1
-echo "INSTAGRAM: ze4n.py"
+echo "INSTAGRAM: ze4n.sh"
 sleep 1
 echo "TIK TOK  : zean.py"
 sleep 1
